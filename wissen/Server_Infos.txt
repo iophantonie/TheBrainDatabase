@@ -20,4 +20,4 @@ Server Raten am Wochenende generell verdoppelt [Freitag 00:00 - Montag 00:00 Uhr
 - Aufwachsen: x10.0
 - Brutzeit: x30.0
 
-Wochenendrate für XP ist ab jetzt x.30
+.
