@@ -19,5 +19,3 @@ Server Raten am Wochenende generell verdoppelt [Freitag 00:00 - Montag 00:00 Uhr
 - Farmen: x3.0
 - Aufwachsen: x10.0
 - Brutzeit: x30.0
-
-.
