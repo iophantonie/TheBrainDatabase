@@ -25,3 +25,30 @@ ASA Regelwerk:
 Zusatzregeln:
 §2.11 Die Weitergabe von Strukturen, Rüstungsteilen & Waffen, sowie Sättel und Kreaturen an Spieler, die das erforderliche Level für die Engramme der Sättel, Items & Co noch nicht erreicht haben, ist strengstens untersagt. Tek Strukturen, Rüstungsteile & Waffen sowie Tek Sättel die ein Boss-Engramm erfordern, dürfen ebenfalls nur an Spieler Weitervergeben werden, die diese freigeschalten haben. Spieler die sich diese über eigenen Progress/ Eigenleistung wie Tokens, Quests oder weitere Dinge erspielt haben, sind über den Markt davon ausgenommen. Alibi-Angebote die keine realistischen Preise beinhalten um diese Regelungen zu umgehen, sind zu unterlassen.
 §2.12 Das bekämpfen der Bosse auf unseren Ark Karten ist in einer Allianz, oder Gruppe problemlos möglich, wenn sich mehrere Spieler oder Stämme zusammenschließen. Voraussetzung ist, dass jeder Teilnehmer einen Beitrag zur Eröffnung der Arena, sowie zum bekämpfen des Bosses leistet, sei es in Form von Trophäen, Artefakten oder Kreaturen.
+
+§3 Bauregeln:
+
+Generelle Bauregeln:
+§3.1 1x1 Strukturen, Lagerfeuer, Übergangsbasen und Schlafplätze, müssen vom Besitzer nach Benutzung wieder entfernt werden.
+§3.2 Beim Bau einer Basis muss darauf geachtet werden, dass Spawn-Plätze, Dungeons und Loot-Kisten/Drops weiterhin erreichbar bleiben.
+§3.3 Zähm-Fallen dürfen nur stehen bleiben, wenn diese auch sehr nah oder direkt in die Spielerbasis integriert wurden. Zähm-Fallen generell müssen sofort nach Benutzung entfernt werden.
+§3.4 Das Blockieren von großen Ressourcen-Spawn-Plätzen wie Metall, Kristall, Obsidian o.ä., Artefakte, Loot-Kisten, Drops und Explorernotes, sowie Biberdämme durch Strukturen, ist verboten. Bei nicht Einhaltung werden die Strukturen durch einen Admin entfernt. Bei Verstoß oder nicht Folge leisten der Aufforderung, durch einen Admin zur Entfernung besagter Strukturen, folgt die Löschung jener Objekte ungeachtet dessen Wert oder Inhalt, ohne Recht auf Erstattung!
+
+Bauregeln Hauptbasen:
+§3.5 Die Anzahl der Hauptbasen auf dem Cluster (nicht Server!) wird nun anhand der Stammesmitglieder bemessen, wobei das Minimum bei 2 liegt und pro Mitglied +1 bis maximal 4 Hauptbasen auf dem gesamten Cluster.
+§3.55 Unabhängig der Stammesgröße dürfen pro Stamm auf den Inoffiziellen Mod Karten in unserem Cluster (Svartalfheim, Amissa, Insaluna, Temptress Lagoon, Nyrandil, Althemia, Lost City, Forglar & Atlantis) 2 weitere Hauptbasen gebaut werden, jedoch nicht mehr als 1 Pro Karte.
+§3.56 Unabhängig der Stammesgröße dürfen pro Stamm auf jedem Overhaul Server 1 Hauptbasis, und 1 Wasserbasis errichtet werden.
+§3.6 Eine Hauptbasis darf eine Größe von 7x7 Behemoth-Tore nicht überschreiten.
+
+Bauregeln Wasserbasen:
+§3.7 Auf dem gesamten Cluster ist pro Tribe 1 Wasserbasis erlaubt.
+§3.8 Eine Wasserbasis darf eine Maximalgröße von 1 Ozeanplattform oder 3x3 Behemoth-Tore nicht überschreiten.
+§3.9 Eine Wasserbasis darf prinzipiell auch auf einem Server sein, auf der eine Spawnhütte oder eine Hauptbasis steht.
+
+Bauregeln Spawnhütten:
+§3.10 Spawnhütten dürfen nur auf Servern gebaut werden, auf denen der Stamm sonst keinerlei Strukturen besitzt (Wasserbasis ausgenommen).
+§3.11Die Größe ist auf eine Fundamentfläche von 8x8 Fundamenten begrenzt, wobei die Höhe nicht mehr als 6 Wände überschreiten darf.
+§3.12 Tek-Schilde sind an und in Spawnhütten verboten.
+§3.13 Kreaturen an oder in Spawnhütten werden ohne Warnung gelöscht.
+§3.14 Ein Unterbau, um unebenen Untergrund auszugleichen, wird nicht zur Höhe hinzugerechnet. Hierzu dürfen auch Klippen- und Baumplattformen genutzt werden. Diese Plattformen dürfen nicht überbaut werden!
+§3.15 Ein Stammesturm/Tribe Tower darf auf einer Spawnhütte platziert werden.
