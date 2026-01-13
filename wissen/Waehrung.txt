@@ -1,0 +1,20 @@
+- Wir haben ein Edelstein System, mit dem man auf dem Schwarzmarkt der sich auf dem Community Center befindet Items und Kreaturen kaufen kann.
+Die Edelsteine sind:
+Rubine: Erhält man für das Voten des Servers, über Cluster Challenges und durch das IOP Quest System 
+-> Quellen:
+- Daily Quest: 5x
+- Weekly Quest: 15x
+- Vote (The Island): 5x
+
+Diamanten: Erhält man für das Töten und besiegen der Ark Bosse.
+-> Boss Drops: Gamma: 1x | Beta: 2x | Alpha: 5x
+
+Bernsteine: Erhält man in der Spielerbank auf dem Community Center, wenn man Tribute verkauft.
+Saphire: Erhält man wenn man Rares und Legendarys tötet.  
+-> Drops: Rare Kill: 1x / Legendary Kill: 3x
+
+Smaragde: Erhält man in IOP Arenas für das Töten des Bosse.
+(Noch nicht integriert!)
+Amethysten: Erhält man wenn man OSDs abschließt. (Noch nicht integriert!)
+Arkenstein: Erhält man für das Töten des Overseers in der Tek Cave.
+(Noch nicht integriert)
