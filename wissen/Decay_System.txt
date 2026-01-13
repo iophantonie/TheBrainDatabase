@@ -1,0 +1,36 @@
+- Bei IOP Nutzen wir ein Progressives Levelsystem für unsere Strukturenlimits und die Höhe des Zerfallstimers/Decays.
+Damit Belohnen wir Langzeitspieler mit erhöhten Raten im Zerfall, sowie einem höheren Strukturenlimit.
+Das Generelle Standart Limit liegt hierbei bei level 100.
+
+Dass hier, ist die Liste des Proglvl Systems/ Progressiven Level Systems:
+• Level 1   = 5  Tage Decay / 100  Strukturen
+• Level 10  = 7  Tage Decay / 150  Strukturen
+• Level 20  = 10 Tage Decay / 200  Strukturen
+• Level 30  = 12 Tage Decay / 250  Strukturen
+• Level 40  = 14 Tage Decay / 500  Strukturen
+• Level 50  = 16 Tage Decay / 750  Strukturen
+• Level 60  = 18 Tage Decay / 1000 Strukturen
+• Level 70  = 21 Tage Decay / 2500 Strukturen
+• Level 80  = 25 Tage Decay / 4000 Strukturen
+• Level 90  = 27 Tage Decay / 5000 Strukturen
+• Level 100 = 30 Tage Decay / 8000 Strukturen
+• Level 105 = 31 Tage Decay / 8050 Strukturen
+• Level 110 = 32 Tage Decay / 8100 Strukturen
+• Level 115 = 33 Tage Decay / 8150 Strukturen
+• Level 120 = 34 Tage Decay / 8200 Strukturen
+• Level 125 = 35 Tage Decay / 8250 Strukturen
+• Level 130 = 36 Tage Decay / 8300 Strukturen
+• Level 135 = 37 Tage Decay / 8350 Strukturen
+• Level 140 = 38 Tage Decay / 8400 Strukturen
+• Level 145 = 39 Tage Decay / 8450 Strukturen
+• Level 150 = 40 Tage Decay / 8500 Strukturen
+• Level 155 = 41 Tage Decay / 8550 Strukturen
+• Level 160 = 42 Tage Decay / 8600 Strukturen
+• Level 165 = 43 Tage Decay / 8650 Strukturen
+• Level 170 = 44 Tage Decay / 8700 Strukturen
+• Level 175 = 45 Tage Decay / 8750 Strukturen
+• Level 180 = 46 Tage Decay / 8800 Strukturen
+• Level 185 = 47 Tage Decay / 8850 Strukturen
+• Level 190 = 48 Tage Decay / 8900 Strukturen
+• Level 195 = 49 Tage Decay / 8950 Strukturen
+• Level 200 = 50 Tage Decay / 9000 Strukturen
