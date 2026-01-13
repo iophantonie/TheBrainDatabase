@@ -27,3 +27,6 @@ Max Wild Dino Levels:
 - Tek: 180
 - Wyvern/Rock Drakes: 190
 - Crystal Wyvern: 225
+
+Wild Dino Kills/ Wildkills
+- Wild Dino Kill: Täglich 01:00 (Normal) / 02:00 (Overhaul Wipe).
