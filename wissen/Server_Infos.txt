@@ -19,3 +19,9 @@ Server Raten am Wochenende generell verdoppelt [Freitag 00:00 - Montag 00:00 Uhr
 - Farmen: x3.0
 - Aufwachsen: x10.0
 - Brutzeit: x30.0
+
+
+- Unsere Restarts sind immer zu 2 Zeiten, verschiedene Server nutzen verschiedene Restart Zeiten.
+entweder 00:00 Uhr und 12:00 MEZ oder 01:00 Uhr und 13:00 Uhr.
+Jeder Restart eines Servers, zeigt einen 30 Minütigen Cooldown an.
+Gestaffelt in 30 Minuten/ 15 Minuten/ 10 Minuten/ 5 Minuten/ 4 Minuten / 3 Minuten/ 2Minuten/ 1 Minute
