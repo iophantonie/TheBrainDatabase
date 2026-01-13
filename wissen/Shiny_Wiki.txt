@@ -17,3 +17,28 @@ Doppelt verboten: Man kann nicht 2x dieselbe Essenz nutzen.
 Gleiche Kategorie verboten: Man kann meistens nicht zwei Essenzen derselben Kategorie kombinieren (z.B. Shinobi + Endurant geht oft nicht, da beides "Abilities" sind).
 Tiny-Regel: Tinies/Stat-Boosts sind NICHT mit normalen Fähigkeiten oder Größenänderungen kombinierbar.
 Skeletal-Warnung: Skeletal ändert das 3D-Modell (Mesh) und ist oft inkompatibel mit Size-Mods oder Tinies.
+
+--- SHINY WIKI: FÄHIGKEITEN ---
+Kategorien Übersicht:
+Abilities: Shinobi, Fathomless, Endurant, Lunar, Floral.
+Visuals/Effects: Burning, Frozen, Taser, Psychotropic, Radioactive, Spectral, Holographic, Rubber, Dazzling, Nightmare, Crystalline, Skeletal.
+
+Shiny Varianten & Fähigkeiten:
+Radioactive: Verursacht AoE-Strahlungsschaden. Erhöht die Mutationswahrscheinlichkeit bei Babys um ca. 10% (nicht stapelbar). Ist immun gegen Strahlung.
+Shinobi: Meister der Tarnung: Extrem reduzierte Aggro-Reichweite (Wilde Dinos greifen erst sehr spät an).
+Crystalline: "Glaskanone": Teilt mehr Schaden aus, erleidet aber auch mehr Schaden. Reflektiert Nahkampfschaden auf Angreifer zurück. Besteht optisch aus Kristallen.
+Nightmare: Pechschwarz (im Dunkeln fast unsichtbar). Saugt Wärme aus der Umgebung. Angriffe verursachen "Angst". Kackt gelegentlich Schwarze Perlen.
+Fathomless: Blau gefärbt. Inventar-Gewicht ist um 80% reduziert. Einer der nützlichsten Transporter/Farmer. Unendlicher Sauerstoff & schnelles Schwimmen.
+Endurant: Unendliche Ausdauer beim Sprinten (Angriffe kosten weiterhin Ausdauer).
+Burning: Immun gegen Feuer & Lava. Kann Feuer-Explosion (AoE) auslösen (Taste: Strg / Spezial). Brennt visuell permanent.
+Frozen: "Lebender Kühlschrank": Hält Fleisch/Items im Inventar frisch. Tanky: Erleidet weniger Schaden. Verlangsamt Angreifer, aber anfällig für Feuer.
+Spectral: Geisterhaft durchsichtig. Kein Fallschaden. Bewegt sich lautlos. Man kann durch sie hindurchgehen (keine Kollision). Kackt "Spektralen Kot". Hohe Resistenz gegen Projektile.
+Holographic: Tech-Optik (Fehler in der Matrix). Verleiht dem Reiter einen Tek-Helm-Scan (zeigt Gefahren/Level).
+Skeletal: Besteht nur aus Knochen. Braucht kein Futter und keinen Sauerstoff. Kackt nicht. Hohe Resistenz gegen Fernkampf (Pfeile/Waffen).
+Taser: Elektrische Aura. Schockt und betäubt (Stun) Angreifer bei Kontakt.
+Psychotrop: Regenbogen-Farbspiel. Produziert Biotoxin im Inventar. Visueller "Trip"-Effekt.
+Lunar: Geringe Schwerkraft (Mond-Physik). Sehr hohe Sprünge, langsames Fallen.
+Rubber: Bunt wie ein Gummiball. Kein Fallschaden (prallt ab). Reflektiert Schaden. Macht Quietsch-Geräusche.
+Dazzling: Edelstein-Optik. Immun gegen Strahlung. Kann Angreifer blenden (Flashbang-Effekt).
+Enraged (Alpha): NICHT ZÄHMBAR. Größer, stärker, schneller als normale Dinos. Droppt beim Tod Shiny Essenz, Chibi-XP und guten Loot.
+Floral: Besitzt eine Aura zur Gesundheitsregeneration (HP Regen).
