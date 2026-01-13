@@ -34,3 +34,7 @@ Dass hier, ist die Liste des Proglvl Systems/ Progressiven Level Systems:
 • Level 190 = 48 Tage Decay / 8900 Strukturen
 • Level 195 = 49 Tage Decay / 8950 Strukturen
 • Level 200 = 50 Tage Decay / 9000 Strukturen
+
+Wildbauten Cleanup:
+- Täglich um 01:00 Uhr automatische Entfernung von: Metallbarrikaden, Holzbarrikaden, Schlafsäcken, Lagerfeuern.
+- Gilt, wenn weniger als 8 Strukturen im Radius von 10 Fundamenten stehen.
