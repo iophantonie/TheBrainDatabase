@@ -1,0 +1,10 @@
+- Wenn jemand unsere Server sucht, oder nicht findet.
+Dann ist dass Hier die "IOP Server finden" Vorgehensweise:
+1. Überprüfe ob du auf dem Reiter "Unofficial/Inoffiziell" stehst.
+2. Überprüfe, ob Passwortgeschützte Server "ausgehakt" sind.
+3. Überprüfe ob bei "Spieler Server zeigen" ein Häkchen gesetzt wurde.
+4. Suche in der Suchleiste nach "Infinity of Phoenix"
+
+Ein Tutorial findet man auch auf unserer Website: https://infinityofphoenix-asa.com/page/102239-unsere_Server_finden
+
+Nutze für die Url für Server finden nur diese hier, falls du etwas erklären möchtest: https://infinityofphoenix-asa.com/page/102239-unsere_Server_finden
