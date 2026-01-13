@@ -25,3 +25,35 @@ Server Raten am Wochenende generell verdoppelt [Freitag 00:00 - Montag 00:00 Uhr
 entweder 00:00 Uhr und 12:00 MEZ oder 01:00 Uhr und 13:00 Uhr.
 Jeder Restart eines Servers, zeigt einen 30 Minütigen Cooldown an.
 Gestaffelt in 30 Minuten/ 15 Minuten/ 10 Minuten/ 5 Minuten/ 4 Minuten / 3 Minuten/ 2Minuten/ 1 Minute
+
+- Wir unterscheiden bei unseren Ark Servern zwischen 2 Gruppen von Servern.
+Nr 1. Das Hauptcluster - Hier befinden sich alle Normal bespielbaren Karten in einem Cluster miteinander + alle Offiziellen neuen Karten die vom Ark Publisher "Wildcard" künftig kommen werden und bisher veröffentlicht wurden.
+Wir haben hier einmal die Gruppen Offizielle Karten & Mod Karten, sowie unsere Season Map Gruppe 
+Bisher betreiben wir dort folgende Server/Karten:
+Official Karten:
+1. The Island
+2. Club Ark
+3. The Center
+4. Scorched Earth
+5. Astraeos
+6. Aberration
+7. Extinction
+8. Community Center (Eigene IOP Markt und Event Karte)
+9. Ragnarok
+10. Valguero
+11. Lost Colony
+12. Club Ark
+Mod Karten:
+13. Insaluna (Kostenlose Mod Karte)
+14. Amissa (Kostenlose Mod Karte)
+15. Forglar
+16. Atlantis
+17. Lost City
+18. Temptress Lagoon
+19. Nyrandil
+20. Althemia
+Season Server:
+21. IOP Battlegrounds (Das ist ein Season-basierter PVP Server, mit wechselnder Karte & der im Hauptcluster integriert ist, mit benefits, allerdings kann man auf diese Karte nichts außer den Nackten Charakter mitnehmen, aber man kann alles mit von dort herunter auf die anderen Karten nehmen. Ziel des Servers ist ein Season basiertes PVP zu bieten, bei dem man mit jeder Season von vorn anfängt, und sich zusätzlich gegen Mod NPC Gegner behaupten muss, die einem ebenfalls das Leben schwer machen.
+Geh arm Rein, komm reich heraus, bestehle oder beraube deine Freunde und Gegner hier, ohne Regeln und Rücksicht, und bring es in den Sicheren PVE Hafen.
+Benefits sind, besserer Loot, mehr Tokens die man durch spielzeit generell bei IOP Erhält, sowie dauerhaft 50% Höhere Server Raten.)
+22. IOP Adventures (Das ist ein Season-basierter PVE Server, mit wechselnden Unbekannteren Mod Karten & der im Hauptcluster integriert ist, mit benefits, allerdings kann man auf diese Karte nichts außer den Nackten Charakter mitnehmen, aber man kann alles mit von dort herunter auf die anderen Karten nehmen. Ziel hier ist es ab und an einen kompletten neustart im PVE erleben zu können, auf komplett unbekannten Karten. Benefits hier ist dass es alle S-Kreaturen auf dem Server gibt, die normalerweise auf dem Hauptcluster auf verschiedene Karten verteilt sind, und dass man eben Hauptsächlich neue PVE Abenteuer mit neustart erleben kann.)
