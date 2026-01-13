@@ -1,0 +1,24 @@
+--- SUPPORT RÄNGE & SHOP ---
+Wir haben folgende Support Ränge im Shop (https://infinityofphoenix-asa.com/supporter-tier):
+- Silber
+- Gold
+- Diamant
+- Platin
+
+Vorteile: Spieler-Boosts, kleinere Belohnungen und Shop-Rabatte.
+Laufzeiten:
+- 1 Monat: Regulärer Preis
+- 3 Monate: Preis für 2 Monate + 1 Monat gratis
+- 6 Monate: Preis für 4 Monate + 2 Monate gratis
+
+Tokens (Währung):
+- Erhältlich durch: Voting, Spielzeit, Cluster Challenges, Erfolge.
+- Transfer: Über Website-Profil oder Community-Reiter möglich (Handel).
+- Kaufbar: Im Support Shop oder als Teil von Rängen.
+
+Edelsteine (Endgame Währung):
+- Rubine: Durch Voting, Cluster Challenges, IOP Quests (Daily/Weekly).
+- Diamanten: Boss-Kills (Gamma: 1x, Beta: 2x, Alpha: 5x).
+- Bernsteine: Verkauf von Tributen in der Spielerbank.
+- Saphire: Rare Kill (1x) / Legendary Kill (3x).
+- Smaragde/Amethysten/Arkenstein: (Noch nicht integriert).
