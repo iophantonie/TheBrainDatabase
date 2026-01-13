@@ -73,3 +73,15 @@ Sie bleiben allerdings erhalten, wenn sie bereits betäubt wurden.
 - Serverboosts sind nicht stapelbar.
 - Color Events sind nicht stapelbar.
 - Color Events kann man immer aktivieren, diese sind durchgängig Verfügbar.
+
+- Außer Ark Ascended Hosten wir noch folgende weitere Spiele:
+1. Palworld
+2. Conan Exiles
+Conan Maps: Exiled Lands, Isle of Siptah, Savage Wilds
+3. Soulmask
+4. Valheim
+5. Minecraft
+Minecraft Server: IOP MC Crossplay (Vanilla & Ohne Mods/ Land-Claim PVE System), IOP MC PC (Mit IOP Modpack & Landclaim PVE System)
+6. 7 Days to Die
+7. Enshrouded
+- Unsere Server Vote Seite findest du hier (immer diese Url verwenden): https://deutsche-arkserver.de/server/infinity-of-phoenix-dein-ark-multiversum-pve-cp.45699/
