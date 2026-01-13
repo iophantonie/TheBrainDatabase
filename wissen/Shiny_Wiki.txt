@@ -1,0 +1,19 @@
+--- SHINY WIKI: GRUNDLAGEN ---
+Allgemeine Informationen:
+Was sind Shinys? Spezielle Dino-Varianten (Level 100-150), die alle 2 Stunden auf jeder Map spawnen.
+Limit: Es können maximal 2 Shinys gleichzeitig auf einer Map existieren.
+Reisen: Shinys können zwischen Maps reisen (Cluster-Travel).
+Zucht: Shinys sind züchtbar, aber sie vererben KEINE Shiny-Effekte oder Fähigkeiten an die Babys.
+Deaktivierte Typen: "Filthy" (wegen Level-Cap) und "Only Colored" (nur Farbe ohne Effekt) sind auf dem IOP Cluster deaktiviert.
+
+Items & Essenz:
+Rohe Essenz: Erhält man durch das Töten von Enraged Shinys.
+Shiny Prod (Speer): Wird aus Roher Essenz gecraftet. Damit kann man Fähigkeiten von wilden Shinys extrahieren.
+Anwendung: Extrahierte Essenz kann auf eigene Dinos derselben Art angewendet werden (z.B. Raptor-Essenz auf Raptor).
+Stacking: Bis zu 2 Essenzen können auf einem Dino kombiniert werden (siehe Kombinations-Regeln).
+
+Essenz Kombinations-Regeln (WICHTIG):
+Doppelt verboten: Man kann nicht 2x dieselbe Essenz nutzen.
+Gleiche Kategorie verboten: Man kann meistens nicht zwei Essenzen derselben Kategorie kombinieren (z.B. Shinobi + Endurant geht oft nicht, da beides "Abilities" sind).
+Tiny-Regel: Tinies/Stat-Boosts sind NICHT mit normalen Fähigkeiten oder Größenänderungen kombinierbar.
+Skeletal-Warnung: Skeletal ändert das 3D-Modell (Mesh) und ist oft inkompatibel mit Size-Mods oder Tinies.
