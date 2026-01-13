@@ -42,3 +42,28 @@ Rubber: Bunt wie ein Gummiball. Kein Fallschaden (prallt ab). Reflektiert Schade
 Dazzling: Edelstein-Optik. Immun gegen Strahlung. Kann Angreifer blenden (Flashbang-Effekt).
 Enraged (Alpha): NICHT ZÄHMBAR. Größer, stärker, schneller als normale Dinos. Droppt beim Tod Shiny Essenz, Chibi-XP und guten Loot.
 Floral: Besitzt eine Aura zur Gesundheitsregeneration (HP Regen).
+
+--- SHINY WIKI: GRÖSSEN & EXTRAS ---
+Größen-Modifikationen (Size Mods):
+Colossal: +50% Größe, sehr viel HP & Melee, aber sehr langsam.
+Pygmy: -30% Größe, sehr schnell, schwer zu treffen, aber weniger HP.
+
+Tinies (Nur für Schulter-Pets / Shoulder Pets):
+Bolstering: Reduziert das Gewicht im Inventar des Trägers.
+Hydrating: Reduziert Wasserverbrauch des Trägers.
+Invigorating: Stellt Ausdauer des Trägers wieder her.
+Obscured: Reduziert Aggro-Reichweite auf den Träger.
+Pyrethrous: Hält Insekten fern.
+Revitalizing: Regeneriert Gesundheit des Trägers.
+Serene: Hilft beim Konzentrieren (besser für Crafting?).
+
+Stat-Booster (Farb-Indikatoren für hohe Werte):
+Hardy (Grün): Hohe HP.
+Stalwart (Gelb): Hohe Ausdauer.
+Inspired (Blau): Hoher Sauerstoff.
+Satiate (Orange): Hohe Nahrung.
+Hefty (Grau): Hohes Gewicht.
+Fierce (Rot): Hoher Nahkampfschaden.
+
+Bekannte Farb-Sets (Color Sets):
+Abominable, Abro, Ace, Agender, Albino, All Hallow's, Amazon, Amethyst, Azure, Bi, Blaze, Bright Rainbow, Budgie, Buffer Overflow, Candy, Caribbean, Chalcedony, Charnel, Cheep, Chocolate Egg, Coal, Dreary Rainbow, Ectoplasm, Eldritch, Ember, Expectation Failed, Fallout, Fathomless (Farbe), Figgy Pudding, Fluid, Frozen (Farbe), Fudge Brownie, Gateway Timeout, Genderqueer, Ghoulish (Vampyre), Gilded, Ginger, Goth, Grinch, Gummy, Heartthrob/True, Hubba Hubba/Ardent, Humbug, Indigo, Infinite Loop, Jack O' Lantern, Jungle, Kraken (1, 2 & 3), Krampus, Lichen, Lovebird/Chivalrous, Luna, Midnight, Mint Chocolate Chip, Mistletoe, Mossy, Motley, Neopolitan, Noir, Nonbinary, Paisley, Pan, Paramour/Faithful, Pastel, Peep, Piebald, Platonic, Polar, Poly, Poppy, Princess, Psycho (Lapis, Leaf, Matcha, Plum), Pumpkin, Punk, Puppylove/Winsome, Radium, Railgun Error, Rainbow, Raspberry Ripple, Roasted Chestnut, Rockwell, Rocky Road, Rose, Roynish, Ruby, Russet, Saffron, Sanna Claws, Santa Tooths, Segmentation Fault, Sherwood, Shinobi (Farbe), Smoochie/Passionate, Spice, Squamous, Stack Corruption, Storm, Sugarplum, Sunset, Tatterdemalion, Tiger, Trans, Unprocessable Entity, Unrequited, Uranium Oxide, Verdant, Xanthic, Zero Day.
