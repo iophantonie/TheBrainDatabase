@@ -73,3 +73,31 @@ Bauregeln - Tek Drill/Bohrer:
 §3.33 Custom Caves dürfen nur so platziert werden, dass sie weder in Artefakt-Höhlen, noch in Bau-Höhlen Ragen und somit sichtbar sind.
 §3.34 Custom Caves dürfen nur so platziert werden, dass sie keine anderen Spieler beim Bauen in der nähe, sowie unter einer Basis hindern.
 §3.35 Custom Caves dürfen nur so platziert werden, dass sie nicht aus Bergen oder über der Oberfläche Sichtbar sind.
+
+§4 Adminregeln:
+§4.1 Admins ist es erlaubt, Konsolenbefehle zu nutzen, um Spielern zu helfen, Mods oder Inhalte zu testen, Fehler (Bugs) im Spiel zu umgehen, Probleme auszugleichen, wenn jemand durch Bugs etwas verloren hat, Events vorzubereiten.
+§4.2 Admins ist es erlaubt, bei begründetem Verdacht eines groben Regelverstoßes die Tribelogs beschuldigter Spieler zu lesen und die dafür notwendigen Schritte zu bestimmen.
+§4.3 Admins ist es erlaubt, Strukturen, die nicht dem Regelwerk entsprechen, zu entfernen.
+§4.4 Admins können ohne Ankündigung Funktionen und Regeln objektiv ändern.
+
+§5 Zuchtregeln:
+§5.0 Kreaturen aus dem Schwarzmarkt, dürfen nicht gehandelt werden.
+§5.1 Kreaturen mit mehr als 100 Mutationen in einem Stat, dürfen generell nicht mehr verkauft werden.
+§5.2 Es dürfen keine Mutierten Kreaturen unkastriert weitergegeben werden.
+§5.3 Die Zuchtlinie muss vom Basiswert an nachvollziehbar sein, und nachgewiesen werden können.
+§5.4 Mutierte Kreaturen, müssen zu angemessenen Preisen verkauft werden.
+§5.5 Mutierte Kreaturen, dürfen nicht verschenkt werden.
+§5.6 Kreaturen, die "nur" Farbmutationen haben, fallen aus diesen Regelungen raus.
+§5.7 Wer Kreaturenverkäufe für bspw. 1 Faser anbietet, um die Regel zu umgehen, verstößt gegen die Zuchtregeln.
+§5.8 Spezifische bzw. Serverseitige Kreaturenlimitierungen, sind festgelegt und werden Ingame angezeigt, somit umgehen wir Globale Regelseitige Zuchtregelungen.
+§5.9 Jeder Stamm darf auf dem Cluster nur Eine Zuchtallianz haben.
+§5.91 In einer Zuchtallianz sind nicht mehr als 2 Stämme erlaubt.
+§5.92 Eine Zuchtallianz gilt ab Anmeldung bindend mindestens 3 Monate. Stammes-Zerwürfnisse sind keine Ausnahme.
+§5.93 Jede Zuchtallianz muss im ⁠🏦│ᴢᴜᴄʜᴛᴀʟʟɪᴀɴᴢʀᴇɢɪꜱᴛᴇʀ angemeldet sein.
+
+§6 Strike System:
+§6.1 Strikes werden generell, nur bei schwerwiegenden Verfehlungen oder Verstößen ausgesprochen. Wir möchten keinen Spieler, der versehentlich einen Fehler macht, oder mal eine Struktur oder eine Kreatur irgendwo vergisst, Striken. Strikes sind die worst-Case Maßnahmen, vorher gibt es meist Verwarnungen. Admins behalten es sich vor, je nach Situation und Umständen, dementsprechend zu reagieren, und die passenden Konsequenzen einzuleiten/auszusprechen.
+§6.2 Bei Regelverstößen, je nach Schwere werden Strikes ausgesprochen, und der Stamm dementsprechend markiert.
+§6.3 Bei 3 Strikes, wird ein temporärer oder dauerhafter Bann veranlasst.
+§6.4 Alle 6 Monate, werden die Strikes zurückgesetzt, um Spielern die Möglichkeit zu bieten, Ihr Spielverhalten zu überdenken und ggfls. anzupassen und aus Ihren Fehlern auch zu lernen.
+§6.5 Sollten diese Sonderregelungen ebenfalls missbraucht werden, darf und wird auch sofort reagiert und dementsprechende Konsequenzen veranlasst und durchgesetzt bzw. je nach Situation der oder die Spieler auch aus der Community ausgeschlossen (temporär sowie dauerhaft).
