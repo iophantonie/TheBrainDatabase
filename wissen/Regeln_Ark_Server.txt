@@ -52,3 +52,24 @@ Bauregeln Spawnhütten:
 §3.13 Kreaturen an oder in Spawnhütten werden ohne Warnung gelöscht.
 §3.14 Ein Unterbau, um unebenen Untergrund auszugleichen, wird nicht zur Höhe hinzugerechnet. Hierzu dürfen auch Klippen- und Baumplattformen genutzt werden. Diese Plattformen dürfen nicht überbaut werden!
 §3.15 Ein Stammesturm/Tribe Tower darf auf einer Spawnhütte platziert werden.
+
+Höhleneingänge:
+§3.16 Jeder Höhleneingang ist im Umkreis von 100m freizuhalten, und nicht zu bebauen.
+
+Abstand zum Nachbar:
+§3.17 Beim Bau einer Basis muss darauf geachtet werden, dass ein Abstand von 150m zum Nachbar eingehalten wird. Im Recht ist immer der, der zuerst an einem Ort gebaut hat. Allianzen & Absprachen mit seinem Nachbar, machen diese Regel mit beiderseitigem Einverständnis unwirksam.
+
+Bauregeln - Kennzeichnungen:
+§3.18 Jede Art von Basis (Hauptbasis, Wasserbasis, Spawnhütte) muss mit einem Schild kenntlich gemacht werden, auf dem klar ersichtlich ist, ob es sich um eine Hauptbasis, eine Spawnhütte oder eine Wasserbasis handelt.
+§3.19 Jede Art von Basis (Hauptbasis, Wasserbasis, Spawnhütte) muss mit einer Location Flag getagged werden, die ihr auf Level 1 erlernen könnt. Hierzu muss die Flagge einfach in der Base aufgestellt werden.
+
+Bauregeln - Neue Karten:
+§3.20 Mit jeder neuen Karte werden die Basen-Limit-Grenzen bis Öffnung des Travels ausgehebelt. Nach Öffnung des Travels, gilt ein 4-Wochen-Zeitraum, die Basen den Regeln anzupassen (Für diejenigen, die dort bleiben möchten, oder umziehen, damit kein Spieler nach öffnung seine Basis zerstören/verkleinern oder ändern muss.
+
+Bauregeln - Tek Drill/Bohrer:
+§3.30 Der Tek Drill/ Bohrer darf nur für 1 Cave pro Hauptbasis verwendet werden.
+§3.31 Der Tek Drill/ Bohrer darf als Zusatz ausschließlich an Hauptbasen verwendet werden.
+§3.32 Der Tek Drill/ Bohrer darf generell als Spawnbase genutzt werden, allerdings darf nur diese Struktur Platziert werden, und alle weiteren innerhalb der Custom Cave.
+§3.33 Custom Caves dürfen nur so platziert werden, dass sie weder in Artefakt-Höhlen, noch in Bau-Höhlen Ragen und somit sichtbar sind.
+§3.34 Custom Caves dürfen nur so platziert werden, dass sie keine anderen Spieler beim Bauen in der nähe, sowie unter einer Basis hindern.
+§3.35 Custom Caves dürfen nur so platziert werden, dass sie nicht aus Bergen oder über der Oberfläche Sichtbar sind.
