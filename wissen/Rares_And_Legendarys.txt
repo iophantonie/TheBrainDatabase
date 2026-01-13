@@ -1,0 +1,22 @@
+--- RARE & LEGENDARY DETAILS ---
+Ankündigung im Discord: https://discord.com/channels/811710111725912085/1238282458181668997
+
+Rare Spawns (Lvl 150):
+- Erkennung: Alpha Glow.
+- Zähmbar: Ja (Ergibt Max Level Dino).
+- Kill-Loot:
+  - 100%: Schultertier (Lvl 224), 2.000 XP, 50x Salz.
+  - 100%: Ressourcen-Bundle (Elektronik, Zement, Harz oder Org. Polymer).
+  - 25%: Kleintier (Dimorphodon, Vulture, Pego, Microraptor, Mesopithecus, Jerboa, Ichtyornis, Compy).
+
+Legendary Spawns (Lvl 190):
+- Erkennung: Blinkender roter Kreis, 25% größer.
+- Zähmbar: NEIN.
+- Kill-Loot (Königsklasse):
+  - 100%: Schultertier (Lvl 224) GARANTIERT.
+  - 100%: Pool wie Rare + 1x Otter & 1x S-Otter.
+  - 100%: 20x Schwarze Perlen, 150x Salz, 1x Rhynio Pheromon, 10.000 XP.
+  - 100%: Standard Alpha Loot.
+  - Chance: 10% Extra Otter, 5% Extra S-Otter.
+
+Wichtig: Rares & Legendarys sind Custom Spawns und despawnen bei Server-Neustart (außer sie liegen K.O.).
