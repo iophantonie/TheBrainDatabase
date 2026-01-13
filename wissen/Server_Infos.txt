@@ -57,3 +57,19 @@ Season Server:
 Geh arm Rein, komm reich heraus, bestehle oder beraube deine Freunde und Gegner hier, ohne Regeln und Rücksicht, und bring es in den Sicheren PVE Hafen.
 Benefits sind, besserer Loot, mehr Tokens die man durch spielzeit generell bei IOP Erhält, sowie dauerhaft 50% Höhere Server Raten.)
 22. IOP Adventures (Das ist ein Season-basierter PVE Server, mit wechselnden Unbekannteren Mod Karten & der im Hauptcluster integriert ist, mit benefits, allerdings kann man auf diese Karte nichts außer den Nackten Charakter mitnehmen, aber man kann alles mit von dort herunter auf die anderen Karten nehmen. Ziel hier ist es ab und an einen kompletten neustart im PVE erleben zu können, auf komplett unbekannten Karten. Benefits hier ist dass es alle S-Kreaturen auf dem Server gibt, die normalerweise auf dem Hauptcluster auf verschiedene Karten verteilt sind, und dass man eben Hauptsächlich neue PVE Abenteuer mit neustart erleben kann.)
+
+Nr 2. Das Overhaul Cluster:
+Generell: Das Overhaul Cluster - Wir nennen es so, es besteht aber im Grunde aus 5 Karten, die jedes für sich seperat ein eigenes geschlossenes Serversystem bzw. Cluster beinhaltet. Wir betreiben dort folgende Overhaul Mods:
+Overhaul 1. Primal Nemesis [Karte: Astraeos]
+Overhaul 2. Primal Chaos [Karte: Ragnarok]
+Overhaul 3. Omega [Karte: Valguero]
+Overhaul 4. DOX 2 (Dino Overhaul X 2) [Karte: The Center]
+Overhaul 5. Descended [Karte: Ragnarok]
+- Auf jedem Overhaul Server wird ein seperater/ eigener Charakter benötigt.
+- Die Overhaul Server starten alle immer um 01:00 Uhr und 13:00 Uhr neu.
+- Rare Spawns überleben keine Neustarts, da sie Custom gespawnte Tiere sind.
+Sie bleiben allerdings erhalten, wenn sie bereits betäubt wurden.
+- Serverboosts kann man nur An Werktagen Montag - Freitag aktivieren.
+- Serverboosts sind nicht stapelbar.
+- Color Events sind nicht stapelbar.
+- Color Events kann man immer aktivieren, diese sind durchgängig Verfügbar.
