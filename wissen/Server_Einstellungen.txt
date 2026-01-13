@@ -1,0 +1,23 @@
+--- SERVER EINSTELLUNGEN & DETAILS ---
+
+Support & Tickets:
+- Tickets (Support, Umzug, Bug Report) bitte hier eröffnen (nur Url): https://discord.com/channels/811710111725912085/1170111314853638294
+
+Artefakte:
+- Spawnen regulär nach ca. 15-30 Minuten.
+- "Backlog"-Besonderheit: Wenn lange keins genommen wurde, spawnt das erste fast sofort (1-3 Min) nach, wenn man kurz außer Sichtweite geht. Danach greift der normale Timer.
+- Wichtig: Nicht auf dem Spawn-Punkt stehen bleiben!
+
+Schaden & Loot:
+- Wild Dino Damage: x2.0 (Ausnahme: Lost Colony x1.25). Bosse sind auf Alpha machbar (gute Werte/Sättel nötig).
+- Loot Qualität: x0.55 überall (Ausnahme: Lost Colony & Battlegrounds 0.7). Loot Pools entsprechen ASE Niveau.
+
+Caps (Grenzwerte):
+- Sättel: 200.0 Rüstung
+- Werkzeuge & Waffen: 400.0%
+- Tek-Rüstung: 1125
+- SWAT-Rüstung: 920
+- Flak-Rüstung: 800
+- Chitin-Rüstung: 400
+- Pelz-Rüstung: 320
+- Ghilli-Rüstung: 256
