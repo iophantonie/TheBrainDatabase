@@ -1,0 +1,19 @@
+--- COLOR EVENTS ---
+Infos:
+- Dauer: 6 Stunden nach Aktivierung.
+- Ablauf: 30 Min nach Start erfolgt ein Wildkill (für Respawn in Farbe).
+
+Event Liste & IDs:
+1. Rainbow: Alle knalligen Farben (IDs: 1-10).
+2. Phoenix: Gelb, Rot, Orange (IDs: 1, 75, 4, 17, 138, 245).
+3. Fire Red: Rote Töne (IDs: 1, 12, 17, 128-135, 73, 74).
+4. Sun Yellow: Gelbe Töne (IDs: 75, 76, 44, 138-140, 244, 245, 81, 80, 21).
+5. Honey Orange: Orange Töne (IDs: Siehe Sun Yellow IDs + spezifische Orange Töne).
+6. Ocean Blue: Blaue Töne (IDs: 2, 53, 54, 29, 95, 184-195, 5, 179-183, 249, 250 etc.).
+7. Forest Green: Grüne Töne (IDs: 3, 7, 16, 25-27, 45-48, 61, 83-88, 154-171, 247, 248).
+8. Albino White: Weiß (IDs: 18, 36, 55, 233, 242).
+9. Shadow Black: Schwarz (IDs: 224, 201, 79, 14).
+10. Love Pink: Pink/Magenta (IDs: 6, 49, 50, 67-69, 89-91, 204-223, 252-254).
+11. Wood Brown: Braun (IDs: 9, 15, 22, 34, 3, 42, 43, 41, 33, 32, 37, 39, 40, 77, 137, 143, 234-236).
+12. Rock Grey: Grau (IDs: 8, 13, 35, 56, 62-64, 230, 231, 226-229).
+13. Desert Beige: Beige (IDs: 10, 11, 32, 140-142, 240, 239, 241).
