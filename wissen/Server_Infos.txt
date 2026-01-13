@@ -1,1 +1,13 @@
+IOP CLUSTER INFORMATIONEN
+
+Allgemeines:
+Wir sind ein deutscher Ark Survival Ascended Cluster namens "Infinity of Phoenix" (IOP).
+Wir legen Wert auf faires Gameplay und eine freundliche Community.
+
+Kontaktdaten:
+Webseite: https://infinityofphoenix-asa.com
+Discord: https://discord.com/invite/3EAjMhRypk
+
+---
+Interne technische Notiz:
 ERROR: KI Fehler - Details: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
