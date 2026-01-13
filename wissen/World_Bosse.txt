@@ -31,3 +31,17 @@ Rote Lootcrates (2-3 Stück)
 Wyvernmilch
 1.000x Organisches Polymer
 Lebensversicherungs Punkte (Shop)
+
+- Worldboss Informationen generell:
+
+ World-Boss Events
+Einige Maps haben eigens kreierte Minibosse, die in einer speziellen Kuppel (Dome) spawnen.
+Ankündigung: Verfolgt Spawns im Discord-Kanal[ MiniBoss-Starts](https://discord.com/channels/811710111725912085/1237404420430630912) oder Ingame.
+Schwierigkeit: Mit Übung und mittlerem Gear machbar.
+Aber Vorsicht: Carchas und Gigas haben hier einen DMG-Reduce!
+Belohnung: Jeder Boss droppt 2-3 Rote Lootcrates, Shop-Punkte und speziellen Loot.
+Kuppel-Mechanik & Anti-Cheese
+Jeder Boss spawnt in seiner eigenen Kuppel.
+Außerhalb: Boss ist unverwundbar (Schadensresistent) und macht 0 Schaden.
+Teleport: Wird er raus gekitet, teleportiert er sich zurück in die Mitte (HP wird dabei NICHT resettet).
+Minions: Jeder Boss wird von eigenen Mobs unterstützt.
