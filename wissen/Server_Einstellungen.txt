@@ -21,3 +21,9 @@ Caps (Grenzwerte):
 - Chitin-Rüstung: 400
 - Pelz-Rüstung: 320
 - Ghilli-Rüstung: 256
+
+Max Wild Dino Levels:
+- Standard: 150
+- Tek: 180
+- Wyvern/Rock Drakes: 190
+- Crystal Wyvern: 225
