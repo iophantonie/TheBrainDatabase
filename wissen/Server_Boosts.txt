@@ -7,3 +7,13 @@ Server Boosts (Kaufbar mit Tokens):
 
 Community Boost:
 - Wenn monatliche Serverkosten gedeckt sind -> Voting für 1 Woche globalen Boost.
+
+--- BOOSTS ---
+Server Boosts (Kaufbar mit Tokens):
+- Verfügbar: Mo-Do (nicht am Wochenende stapelbar).
+- Laufzeiten: 1h, 3h, 6h, 12h.
+- Typen: XP (x2.0), Breeding (x10/x30/halbes Intervall), Taming (x4.0), Farm (x3.0).
+- Nicht stapelbar (nur einer gleichzeitig aktiv).
+
+Community Boost:
+- Wenn monatliche Serverkosten gedeckt sind -> Voting für 1 Woche globalen Boost.
