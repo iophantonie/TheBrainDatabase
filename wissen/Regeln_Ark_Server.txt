@@ -1,0 +1,27 @@
+ASA Regelwerk:
+
+§1 Serverregeln:
+§1.1 Bei Fragen oder Problemen fragt im Chat, vielleicht kann euch schon mit einer Antwort geholfen werden.
+§1.2 Jeder Spieler muss dem Discord zugehören, um seinen Strukturenverfall durch Verifizierung auf 30 Tage setzen zu können und um bei Problemen oder Kontaktaufnahme erreichbar zu sein.
+§1.3 Beleidigungen oder rassistische Bemerkungen (Chat/Voice), Spamen, unhaltbare Anschuldigungen oder persönlich werdende Äußerungen sind zu unterlassen. Konflikte sollen LOKAL oder im DC gelöst werden. Admins können hier als Vermittler dienen.
+§1.4 Multiaccounting für das Token-Double-Farming oder Edelstein-Farmen mit 2 Accounts, führt zu sofortigem Community-Ausschluss.
+§1.5 Spielt bitte fair mit euren Mitspielern, behandelt die Mitspieler mit Respekt und seid höflich!
+§1.6 Der Charaktername, der Tribename und die Tribezugehörigkeit sowie der Tribe Rang (Tribeowner/Tribeadmin) müssen auf jedem Server identisch sein, mit Ausnahme der Overhaul's, IOP Adventures & IOP Battlegrounds.
+§1.7 Generell gilt, auch Solo-Spieler müssen sich einen Tribe erstellen.
+§1.8 Tribeinternas werden vom Adminteam nicht supportet, unterstützen aber gerne bei der Schlichtung von Problemen.
+
+§2 Verhaltensregeln:
+§2.1 Es ist untersagt, Spieler beim Zähmen zu stören.
+§2.2 Andere Spieler mit Flugdinos aufzuheben und absichtlich fallen zu lassen, zu ertränken oder auf irgendeine Weise zu Tode kommen zu lassen oder zu bestehlen, ist verboten.
+§2.3 Das Ausnutzen von In-Game-Bugs, um Euch Vorteile zu verschaffen, ist verboten.
+§2.4 Es ist verboten, in fremden Basen einzudringen, Kisten/Strukturen zu durchsuchen bzw. zu stehlen oder Tiere in diese abzuwerfen. Fragt im Chat/Voice-Chat nach, ob der Besitzer zu Hause ist und euch Zutritt gewährt. (Ausgenommen sind Airdrops, die in jener Base landen).
+§2.5 Das Looten von Taschen von Stamm-fremden Spielern, Dinos oder Strukturen ist strengstens untersagt! Ausgenommen ist hier natürlich, wenn ihr einem anderen Spieler dabei hilft, seinen Loot vor Verlust zu retten.
+§2.6 Die Übernahme Stamm-fremder Dinos ist grundsätzlich verboten, außer sie wurden vom Eigentümer direkt für euch freigegeben.
+§2.7 Das Abstellen von Tieren innerhalb von Dungeons ist zu unterlassen. Tiere, die Wege, Lootboxen etc. blockieren, werden entfernt.
+§2.8 Wer zuerst kommt, malt zuerst: Das gilt für Lootstrahlen, Wyvernnester und für das Zähmen von Dinos, sowie für die Rare-Spawns und für die Shinys. Bitte sprecht euch ab und beachtet dabei den allgemeinen Umgangston. Im Zweifel kontaktiert bitte einen Admin zur Klärung.
+§2.9 Das Reservieren von Basespots in jeglicher Form ist strengstens Untersagt und Verboten. Es muss mindestens eine Spawnhütte dort stehen, ein Umzug angemeldet sein via Ticket oder der Stamm muss dort sichtlich eine erkennbare Base mit Location Flag sowie einem Schild haben.
+§2.10 Das ineinander stacken von Kreaturen ist strengstens untersagt.
+
+Zusatzregeln:
+§2.11 Die Weitergabe von Strukturen, Rüstungsteilen & Waffen, sowie Sättel und Kreaturen an Spieler, die das erforderliche Level für die Engramme der Sättel, Items & Co noch nicht erreicht haben, ist strengstens untersagt. Tek Strukturen, Rüstungsteile & Waffen sowie Tek Sättel die ein Boss-Engramm erfordern, dürfen ebenfalls nur an Spieler Weitervergeben werden, die diese freigeschalten haben. Spieler die sich diese über eigenen Progress/ Eigenleistung wie Tokens, Quests oder weitere Dinge erspielt haben, sind über den Markt davon ausgenommen. Alibi-Angebote die keine realistischen Preise beinhalten um diese Regelungen zu umgehen, sind zu unterlassen.
+§2.12 Das bekämpfen der Bosse auf unseren Ark Karten ist in einer Allianz, oder Gruppe problemlos möglich, wenn sich mehrere Spieler oder Stämme zusammenschließen. Voraussetzung ist, dass jeder Teilnehmer einen Beitrag zur Eröffnung der Arena, sowie zum bekämpfen des Bosses leistet, sei es in Form von Trophäen, Artefakten oder Kreaturen.
