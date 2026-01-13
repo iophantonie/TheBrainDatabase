@@ -1,0 +1,8 @@
+Befehle im Discord Chat:
+- !spielzeit  <- Gibt die Gesamt-Spielzeit auf dem IOP Cluster aus.
+- !decay      <- Zeigt eine Liste eures Decays und der Server an, inkl. Page Funktion.
+- !eosid      <- Zeigt eure EOSID an
+- !tokens     <- Schickt dir eine PN mit deinem Tokenstand.
+- !groups     <- Zeigt eure Ingame Berechtigungen + Zeitbasierten Berechtigungen an.
+- !chardata   <- Zeigt eure Charaktere auf den Ark Servern bei IOP an.
+- !tribedata  <- Zeigt eure Tribe Daten auf den Ark Servern bei IOP an (Für die IDs, steht noch ein Update und austausch mit GSA aus)
