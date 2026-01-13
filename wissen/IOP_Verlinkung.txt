@@ -1,0 +1,6 @@
+- Bevor ein Spieler auf den IOP Servern alle Features und Systeme nutzen kann, sowie den Token Shop, muss er die IOP Verlinkung erst machen.
+Hierzu muss er auf der IOP Website ein Profil erstellen, und Discord,Steam sowie seinen Charakter (EOSID) Verlinken.
+Tutorials im Discord findet man in diesem Kanal: https://discord.com/channels/811710111725912085/1272645287097143346
+Tutorials auf der Website findet man auf dieser Seite:  https://infinityofphoenix-asa.com/page/102242-Charackter_mit_Website_verlinken
+- Wenn du Tutorial im Discord Verlinken willst, nutze nur diese Url: https://discord.com/channels/811710111725912085/1272645287097143346
+- Wenn du Tutorial auf der Website Verlinken möchtest, nutze nur diese Url: https://infinityofphoenix-asa.com/page/102242-Charackter_mit_Website_verlinken
